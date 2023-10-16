@@ -1,4 +1,4 @@
-![Screenshot 2023-10-16 223825](https://github.com/Jhaveri-Jeet/CoffeNation/assets/114752089/c062949b-2aaf-4e77-bc1e-acaf67283816)![Screenshot 2023-10-16 223825](https://github.com/Jhaveri-Jeet/CoffeNation/assets/114752089/55f29e53-1a14-4ae2-860e-46ca1841b8b6)
+![Screenshot 2023-10-16 223825](https://github.com/Jhaveri-Jeet/CoffeNation/assets/114752089/55f29e53-1a14-4ae2-860e-46ca1841b8b6)
 
 # CoffeeNation
 
