@@ -1,6 +1,6 @@
+# CoffeeNation
 ![Screenshot 2023-10-16 223825](https://github.com/Jhaveri-Jeet/CoffeNation/assets/114752089/55f29e53-1a14-4ae2-860e-46ca1841b8b6)
 
-# CoffeeNation
 
 CoffeeNation is a web application for managing and operating a coffee shop or cafe business. It provides features for administrators to manage products, reservations, and customers, and for customers to browse the menu and make reservations.
 
